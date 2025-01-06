@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "/*^^*/"
 title_separator          : "-"
-subtitle                 : "주인장: 이가은 - 좋아하는 것들을 작성합니다..."# site tagline that appears below site title in masthead
+subtitle                 : "주인장: 이가은. 좋아하는 것들을 작성합니다..."# site tagline that appears below site title in masthead
 name                     : "Gaeun"
 description              : "홍익대학교 컴퓨터공학과 23 이가은의 블로그입니다."
 url                      : "https://Gaeunyee.github.io"
