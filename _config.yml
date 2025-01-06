@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "/*^^*/"
 title_separator          : "-"
-subtitle                 : "주인장: 이가은. 좋아하는 것들을 작성합니다..."# site tagline that appears below site title in masthead
+subtitle                 : "Algorithms, Computer Science, etc."# site tagline that appears below site title in masthead
 name                     : "Gaeun"
 description              : "Algorithms, Computer Science"
 url                      : "https://Gaeunyee.github.io"
@@ -115,11 +115,11 @@ analytics:
 author:
   name             : "Gaeunyee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "이것저것 덕질합니다."
+  bio              : "좋아하는 것들을 작성합니다..."
   location         : "Seoul, South Korea"
   email            : "butter3105@naver.com"
   links:
-    - label: "Solved.ac"
+    - label: "solved.ac"
       icon: "fa-solid fa-code"
       url: "https://solved.ac/profile/butter3105"
     - label: "Codeforces"
