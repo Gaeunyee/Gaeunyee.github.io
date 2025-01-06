@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "/*^^*/"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Algorithms, Games, Animations"# site tagline that appears below site title in masthead
 name                     : "Gaeun"
 description              : "홍익대학교 컴퓨터공학과 23 이가은의 블로그입니다."
 url                      : "https://Gaeunyee.github.io"
@@ -117,11 +117,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "baekjoon & codeforeces handle: butter3105"
   location         : "Hongik University, Seoul, South Korea"
-  email            : butter3105@naver.com
+  email            : "butter3105@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "butter3105@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
