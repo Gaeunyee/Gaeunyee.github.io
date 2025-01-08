@@ -134,9 +134,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Gaeunyee"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Source Code"
+      icon: "fa-solid fa-folder"
+      url: "https://github.com/Gaeunyee/zandi"
 
 # Site Footer
 footer:
